@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment1
 {
-    class Rectangle
+    public class Rectangle
     {
         private int length;
         private int width;
@@ -19,10 +19,37 @@ namespace Assignment1
 
         public Rectangle(int length, int width)
         {
-            Console.Write("Input the length: ");
+            this.length = length;
+            this.width = width;
+        }
+
+        public void GetLength()
+        {
+            Console.Write("The length is: " + length);
+        }
+        public int SetLength(int length)
+        {
+            Console.Write("Input the new length: ");
             length = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Input the width: ");
+            return length;
+        }
+        public void GetWidth()
+        {
+            Console.Write("The width is: " + width);
+        }
+        public int SetWidth(int width)
+        {
+            Console.Write("Input the new width: ");
             width = Convert.ToInt32(Console.ReadLine());
+            return width;
+        }
+        public void GetPerimeter()
+        {
+            Console.WriteLine("Perimeter is: " + (2 * width + 2 * length));
+        }
+        public void GetArea()
+        {
+            Console.WriteLine("Area is: " + (width * length));
         }
     }
 }

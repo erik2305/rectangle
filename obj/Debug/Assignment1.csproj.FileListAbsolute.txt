@@ -1,0 +1,7 @@
+C:\Users\ysati\Desktop\winter2022\Quality Assurance\New folder\bin\Debug\Assignment1.exe.config
+C:\Users\ysati\Desktop\winter2022\Quality Assurance\New folder\bin\Debug\Assignment1.exe
+C:\Users\ysati\Desktop\winter2022\Quality Assurance\New folder\bin\Debug\Assignment1.pdb
+C:\Users\ysati\Desktop\winter2022\Quality Assurance\New folder\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\ysati\Desktop\winter2022\Quality Assurance\New folder\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\ysati\Desktop\winter2022\Quality Assurance\New folder\obj\Debug\Assignment1.exe
+C:\Users\ysati\Desktop\winter2022\Quality Assurance\New folder\obj\Debug\Assignment1.pdb
